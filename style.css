@@ -170,6 +170,9 @@ body {
 .resume-link{
   color: #2a92d7;
 }
+.give-link{
+  color: #e60998;
+}
 
 .about-link:hover {
   color: #e60998;
